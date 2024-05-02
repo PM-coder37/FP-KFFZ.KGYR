@@ -1,9 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 <html>
 <head>
-<style type="text/css" xml:space="preserve">
-table { border-collapse: collapse; } th, td { border-right: 1px solid #aaa; padding: 0px 3px 0px 3px; white-space: nowrap; font-size: 0.9em; } th { white-space: normal; padding: 3px 3px 3px 3px; font-size: 0.95em; } tr:hover {background-color: #c8c8c8; } </style>
-<title>Little Navmap - </title>
+
 <meta http-equiv="content-type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /></head>
 <body>
 <h1>Scottsdale (KSDL) to Falcon (KFFZ)</h1>
